@@ -1,7 +1,7 @@
 # Verilog
 test Verilog coding with method RK4 
 _________
-test in verilog:
+test in verilog EDO:
 
 y´=2xy;
 y(0)=1;
